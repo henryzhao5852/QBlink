@@ -1,6 +1,6 @@
 # QBLink dataset
 
-Dataset for emnlp'18 paper "A dataset and baselines for sequential open-domain question answering"
+Dataset for emnlp'18 paper [A dataset and baselines for sequential open-domain question answering](http://users.umiacs.umd.edu/~jbg/docs/2018_emnlp_linked.pdf)
 
 Introduction
 --------
