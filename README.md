@@ -35,7 +35,7 @@ Each question sequence has the following format:
 
 **Id**: question sequence id\
 **Tournament**: tournament the question sequence in\
-**Leadin**: lead in sentence of the question sequence\
+**Lead-in**: lead in sentence of the question sequence\
 **Category**: category the question sequence in\
 **Sub Category:** sub category the question sequence in\
 **Question 1**: first question of the sequence, including **question text**, **answer**, **wiki page** the answer mapped\
