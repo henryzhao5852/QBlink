@@ -10,25 +10,25 @@ QBLink is a new dataset about 18,000 question sequences, each sequence consists 
 Dataset Example
 --------
 
-Lead-in: Only twenty-one million units in this system will ever be created. For 10 points each:
+**Lead-in:** Only twenty-one million units in this system will ever be created. For 10 points each:
 
-Question 1: Name this digital payment system whose transactions are recorded on a “block chain”.
+**Question 1**: Name this digital payment system whose transactions are recorded on a “block chain”.
 
-Answer: Bitcoin
+**Answer**: Bitcoin
 
-Question 2: Bitcoin was invented by this person, who, according to a dubious Newsweek cover story, is a 64- year-old Japanese-American man who lives in California. 
-Answer: Satoshi Nakamoto
+**Question 2**: Bitcoin was invented by this person, who, according to a dubious Newsweek cover story, is a 64- year-old Japanese-American man who lives in California.
 
-Question 3: This online drugs marketplace, Chris Bor- glum’s one-time favorite, used bitcoins to conduct all of its transactions. It was started in 2011 by Ross Ulbricht using the pseudonym Dread Pirate Roberts.
+**Answer**: Satoshi Nakamoto
 
-Answer: Silk Road
+**Question 3:** This online drugs marketplace, Chris Bor- glum’s one-time favorite, used bitcoins to conduct all of its transactions. It was started in 2011 by Ross Ulbricht using the pseudonym Dread Pirate Roberts.
+
+**Answer**: Silk Road
 
 
 Dataset Download
 --------
 
-The dataset is split into train, dev, and test set, and we process it into json file. You can download the full dataset here
-
+The dataset is split into train, dev, and test set, and we process it into json file. You can download the full dataset here:
 https://sites.google.com/view/qanta/resources
 
 Dataset Format
@@ -36,20 +36,20 @@ Dataset Format
 
 Each question sequence has the following:
 
-Id: question sequence id 
+**Id**: question sequence id 
 
-Tournament: tournament the question sequence in
+**Tournament**: tournament the question sequence in
 
-Leadin: lead in sentence of the question sequence
+**Leadin**: lead in sentence of the question sequence
 
-Category: category the question sequence in 
+**Category**: category the question sequence in 
 
-Sub Category: sub category the question sequence in
+**Sub Category:** sub category the question sequence in
 
-Q1: first question of the sequence, including question text, answer, wiki page the answer mapped
+**Question 1**: first question of the sequence, including **question text**, **answer**, **wiki page** the answer mapped
 
-Q2: second question of the sequence, including question text, answer, wiki page the answer mapped
+**Question 2**: second question of the sequence, including **question text**, **answer**, **wiki page** the answer mapped
 
-Q3: third question of the sequence, including question text, answer, wiki page the answer mapped
+**Question 3**: third question of the sequence, including **question text**, **answer**, **wiki page** the answer mapped
 
 
