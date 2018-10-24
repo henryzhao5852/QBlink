@@ -31,7 +31,7 @@ https://sites.google.com/view/qanta/resources
 Dataset Format
 --------
 
-Each question sequence has the following:
+Each question sequence has the following format:
 
 **Id**: question sequence id\
 **Tournament**: tournament the question sequence in\
